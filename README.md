@@ -2,7 +2,7 @@
 <h3 align="center" style="color:#555555;">Cybersecurity Student | Python Enthusiast | Hackathon Winner | Internship Coordinator</h3>
 
 <p align="center" style="color:#666666;">
-  🌱 A first-year B.Tech CSIT (Cybersecurity) student at Symbiosis Skills and Professional University, passionate about creating impactful cybersecurity projects with Python and always eager to learn and grow.
+  🌱 A Second-year B.Tech CSIT (Cybersecurity) student at Symbiosis Skills and Professional University, passionate about creating impactful cybersecurity projects with Python and always eager to learn and grow.
 </p>
 
 - 🔭 I’m currently working on [Agent-less Windows System Vulnerability and Network Scanner](https://github.com/Heartking-2324/NetSleuths)
