@@ -5,7 +5,7 @@
   🌱 A Second-year B.Tech CSIT (Cybersecurity) student at Symbiosis Skills and Professional University, passionate about creating impactful cybersecurity projects with Python and always eager to learn and grow.
 </p>
 
-- 🔭 I’m currently working on [Agent-less Windows System Vulnerability and Network Scanner](https://github.com/Heartking-2324/NetSleuths)
+- 🔭 I’m currently working on [SEIM_Azure](https://github.com/Heartking-2324/SEIM_Azure)
 
 - 🌱 I’m currently learning **MySQL, BASH**
 
