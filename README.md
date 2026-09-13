@@ -1,66 +1,112 @@
-<h1 align="center">Hello! 👋 I'm Sujhal Gurav</h1>
-<h3 align="center">Cybersecurity Student | Python Enthusiast | Hackathon Winner | Internship Coordinator</h3>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=1F3864&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Sujhal+Gurav+%F0%9F%91%8B;Threat+Researcher+%7C+Purple+Teamer;Founder+%40TSecForge+%2F+HackLux;SIH+2024+%26+2026+National+Finalist;Top+1%25+on+TryHackMe+%F0%9F%94%A5" alt="Typing SVG" />
+
+</div>
 
 <p align="center">
-  🌱 A Second-year B.Tech CSIT (Cybersecurity) student at Symbiosis Skills and Professional University, passionate about creating impactful cybersecurity projects with Python and always eager to learn and grow.
+  <img src="https://img.shields.io/badge/SIH%202024-National%20Finalist-1F3864?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SIH%202026-Team%20Lead-1F3864?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CREST%20CTF-3rd%20Place-1F3864?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TryHackMe-Top%201%25-red?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  <img src="https://img.shields.io/badge/CTIGA-Certified-1F3864?style=for-the-badge" />
 </p>
 
-- 🔭 I’m currently working on [SEIM_Azure](https://github.com/Heartking-2324/SEIM_Azure)
+### 👋 About Me
 
-- 🌱 I’m currently learning **MySQL, BASH**
+Final-year **B.Tech CSIT (Cybersecurity)** student at Symbiosis Skills and Professional University, Pune. I build forensic detection and threat-hunting systems, break my own CTF platform trying to secure it, and write research on how AI agents can themselves become insider threats.
 
-- 👨‍💻 Check out all of my projects [here](https://www.linkedin.com/in/sujhalgurav/details/projects/)
+- 🔭 Currently building **[JOCKY](https://github.com/heartking-2324)** — a forensic detection language & runtime for catching LOTL, BYOVD, fileless execution, and C2 evasion without tripping endpoint security
+- 🛡️ Founder of **HackLux / TSecForge** — a CTF lab delivery platform with anti-cheat detection and WAF-hardened infrastructure
+- 🧪 Currently researching **"Living-off-the-Agent" (LOTA)** attack patterns — adversaries abusing legitimate AI agent tooling instead of deploying traditional malware
+- 🏛️ Completed a paid threat research & forensics internship at a national government research organisation, building agentless endpoint detection
+- 📄 Sole author of a 3-paper research series on AI agent insider-threat behavior
+- 💬 Ask me about **Threat Hunting 🎯 | DFIR 🔍 | MITRE ATT&CK 🗺️ | CTF Strategy 🏆**
+- 📫 Reach me: **sujhal05gurav@gmail.com**
 
-- 💬 Ask me about **Cybersecurity Fundamentals 🛡️ | Python Projects 🐍 | Tips for Winning Hackathons 🏆**
+### ⚡ Fun Facts
+- 🏏 Cricket in my free time
+- 🎶 Tabla and flute
+- 🔍 291-day TryHackMe streak and counting
 
-- 📫 How to reach me: **sujhal05gurav@gmail.com**
+<br>
 
-### ⚡ Fun Facts:
-- 🏏 I love playing cricket in my free time.
-- 🎶 I enjoy playing the tabla and flute.
-- 💻 I create random fun projects to keep my creativity flowing.
-- 🔍 I challenge myself daily on TryHackMe and have reached Level 9 (OMNI)!  
+### 🛠️ Tech & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elastic%20Stack-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Suricata%20IDS-orange?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Volatility-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/KAPE-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/SleuthKit-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/ALEAPP-black?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+</p>
+
+<br>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=heartking-2324&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=heartking-2324&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heartking-2324&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heartking-2324&theme=tokyo-night&hide_border=true" />
+</p>
+
+### 🎯 TryHackMe
+
+<p align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/Heartking.png" alt="TryHackMe Badge" />
+</p>
 
-### Connect with me:
+<p align="center">
+  <img src="https://img.shields.io/badge/Rank-7%2C042-1F3864?style=flat-square" />
+  <img src="https://img.shields.io/badge/Rooms%20Completed-368-1F3864?style=flat-square" />
+  <img src="https://img.shields.io/badge/Streak-291%20days-1F3864?style=flat-square" />
+  <img src="https://img.shields.io/badge/Badges-66-1F3864?style=flat-square" />
+</p>
+
+<br>
+
+### 🌐 Connect With Me
+
 <p align="center">
   <a href="https://linkedin.com/in/sujhalgurav" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujhalgurav" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sujhal05gurav@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://instagram.com/heartking_2324/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heartking_2324/" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
-### Languages and Tools:
 <p align="center">
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  </a>
-</p>
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Heartking-2324&show_icons=true&locale=en&layout=compact" alt="heartking-2324" />
+  <img src="https://komarev.com/ghpvc/?username=heartking-2324&style=flat-square&color=1F3864" alt="profile views" />
 </p>
